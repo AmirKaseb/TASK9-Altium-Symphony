@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Vcc Pin=H*1-4
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Added Pin To Net: NetName=+5 Pin=H*1-4
+Add Class Member: Failed to add class member : Component D1 Schottky Diode

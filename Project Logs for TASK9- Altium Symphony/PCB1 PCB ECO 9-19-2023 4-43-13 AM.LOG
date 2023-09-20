@@ -1,0 +1,10 @@
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin STM*1-PB_4
+Added Pin To Net: NetName=NetD*1_4 Pin=D*1-4
+Added Pin To Net: NetName=NetD*1_4 Pin=STM*1-PB_3
+Added Net: Name=NetD*1_4
+Added Pin To Net: NetName=NetD*1_5 Pin=D*1-5
+Added Pin To Net: NetName=NetD*1_5 Pin=STM*1-PA_15
+Added Net: Name=NetD*1_5
+Add Class Member: Failed to add class member : Component D1 Schottky Diode
