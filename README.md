@@ -18,7 +18,7 @@ This document provides documentation for the Workshop Competition System PCB pro
 - The primary components and their connections are as follows:
   - STM32 Microcontroller: Responsible for controlling the system.
   - Rosetta Power Inlet: Provides power to the PCB.
-  - L298N Motor Driver: Interfaces with motors for motion control.
+  - L298N Motor Driver: Interfaces with motors for motion control
   - Ultrasonic Sensor: Used for distance measurement.
   - IMU (Inertial Measurement Unit): Used for orientation and motion sensing.
   - Shotkley Diode: Added for inverse current and short circuit protection.
